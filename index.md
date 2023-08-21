@@ -1,30 +1,14 @@
-{% assign linkedin = "https://www.linkedin.com/in/leon-hunter" %}
-{% assign email    = "xleonhunter@gmail.com" %}
-{% assign username = "git-leon" %}
+{% assign linkedin = "https://www.linkedin.com/in/andrebdavis2011/" %}
+{% assign email    = "andreb.davis2@gmail.com" %}
+{% assign username = "andrebdavis" %}
 {% capture repository %}
-    https://{{ username }}.github.io/resume
+    https://{{ username }}.github.io/
 {% endcapture %}
 
-<table>
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=dracula">         
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
-      </td>
-   </tr>
-</table>
 
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-_Click [here](https://github.com/{{ username }}) to view my Github Profile_
-
-
-### Education
-* Delaware State University (2011 - 2015)
-* [Bachelor of Science (BS)](./bachelors-degree.pdf)
-* Computer Science Major, Mathematics Minor
+_Click [here](https://github.com/andrebdavis) to view my Github Profile_
 
 
 ### Contact Information
@@ -32,14 +16,16 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 * **Website:** [`{{ repository }}`]({{ repository }})
 * **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
 
-### Personal Projects
-* none
 
-### Exercise and Assignment Completion
-* [`https://github.com/curriculeon`](https://github.com/curriculeon)
-    * [Installing Chocolatey](https://curriculeon.github.io/Curriculeon/lectures/terminal/dos/install-chocolatey/content.html)
-    * [Installing Git CLI](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/installation/content.html)
-    * [Introductory Command Line](https://curriculeon.github.io/Curriculeon/lectures/terminal/dos/install-chocolatey/content.html)
-    * [My First Git Repository](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-repository/content.html)
-    * [My First Github Page Deployment](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-githubpage/content.html)
-    * [Adding Changes to Preexisting Repository](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/add-change-to-preexisting-repo/content.html)
+### Education
+* Zip Code Wilmington School of Coding (2023)
+* Lincoln University of PA (2015 - 2018)
+* Bachelor of Science (BS)
+* Business Management Major, Finance Minor
+
+
+### Personal Projects
+   CRUD APPLICATION
+ * The basic CRUD (Create, Read, Update, Delete) application I developed is a web-based system that enables users to perform essential operations on a collection of data entities. It is built using a combination of technologies, including a Spring Boot backend for handling data storage and processing, and a front-end interface created with HTML, JavaScript, and jQuery for user interaction. The application provides users with the ability to create new records, retrieve existing records, update record details, and delete records from the underlying data store. I built this application to gain hands-on experience in building a full-stack application, understand the fundamental principles of data management, and improve my proficiency in web development technologies. The CRUD application serves as a foundational project that showcases my ability to design, develop, and deploy interactive web applications with essential data management functionalities..
+* https://crud-demo-4g6b.onrender.com/
+
