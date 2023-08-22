@@ -9,7 +9,9 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
 _Click [here](https://github.com/andrebdavis) to view my Github Profile_
-
+### Full-Stack Java Developer
+### Summary 
+Highly skilled in Full-Stack development using Java8, Springboot, Jquerey, HTML and Javascript.
 
 ### Contact Information
 * **Email**: [`{{ email }}`](mailto:{{ email }})
@@ -26,6 +28,18 @@ _Click [here](https://github.com/andrebdavis) to view my Github Profile_
 
 ### Personal Projects
    CRUD APPLICATION
- * The basic CRUD (Create, Read, Update, Delete) application I developed is a web-based system that enables users to perform essential operations on a collection of data entities. It is built using a combination of technologies, including a Spring Boot backend for handling data storage and processing, and a front-end interface created with HTML, JavaScript, and jQuery for user interaction. The application provides users with the ability to create new records, retrieve existing records, update record details, and delete records from the underlying data store. I built this application to gain hands-on experience in building a full-stack application, understand the fundamental principles of data management, and improve my proficiency in web development technologies. The CRUD application serves as a foundational project that showcases my ability to design, develop, and deploy interactive web applications with essential data management functionalities..
-* https://crud-demo-4g6b.onrender.com/
+ - Developed a web-based Basic CRUD (Create, Read, Update, Delete) application to enable users to manage data entities effectively.
+- Utilized a blend of modern technologies, including:
+- Spring Boot backend for robust data storage and processing.
+- HTML, JavaScript, and jQuery for crafting a dynamic front-end interface.
+- Empowered users with the capability to:
+- Create new records in the data store.
+- Retrieve existing records for viewing.
+- Update record details to maintain data accuracy.
+- Delete records securely from the system.
+- Constructed the application with the aim of:
+- Mastering the core principles of data management.
+- Elevating proficiency in web development tools and languages.
+- Showcased skills in designing, developing, and deploying web applications with comprehensive data management functionalities.
+* [https://crud-demo-4g6b.onrender.com/]()
 
