@@ -4,3 +4,13 @@ header {
     display: none;
     content: none;
 }
+
+
+.wrapper {
+    background-color: white !important;
+    padding: 5px; /* adjust to keep it from sticking out of the rounded corners of section */
+}
+
+footer {
+    display: none;
+}

@@ -10,36 +10,50 @@
 
 _Click [here](https://github.com/andrebdavis) to view my Github Profile_
 ### Full-Stack Java Developer
-### Summary 
-Highly skilled in Full-Stack development using Java8, Springboot, Jquerey, HTML and Javascript.
-
 ### Contact Information
 * **Email**: [`{{ email }}`](mailto:{{ email }})
 * **Website:** [`{{ repository }}`]({{ repository }})
 * **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
 
+### Summary 
+- Energetic and determined Software Developer, with a Bachelor of Science in Business Management and 
+certificate in Finance along with nearly four years in real estate management and sales. 
+- Seeks engagement with 
+high-performing technical teams using innovative technology to solve complex business problems; customer centric, loyal, and confident when faced with new challenges.
+
+### Experience 
+ **Software Developer**
+*Zip Code Wilmington | Feb 2023 – May 2023*
+- Software Developer in Training
+Admitted into Zip Code Wilmington’s highly competitive software development program accepting less than 
+10% of applicants.
+- Completed over 1000 hours of software development projects in an immersive, full-stack 
+training program using Agile and Scrum methodologies and test-driven development.
+- Gained experience with 
+multiple object-oriented programming languages and frameworks.
+
+**Senior Property Manager**
+*Emory Hill Commercial Real Estate Services* | Mar 2020 – Feb 2023
+- Managed a $100M portfolio of properties exceeding 4 million square feet including 4 apartment 
+complexes, University of Delaware student housing, and various other commercial properties and 
+shopping centers; Lead a team of 3 property coordinators.
+
+
+### Personal Projects
+#### CRUD Application
+ - Developed and deployed a containerized Java-based web application using Docker to the cloud via Render.com, enabling effective data entity management.
+- Utilized Spring Boot for backend processing, and HTML, JavaScript, and jQuery for a dynamic front-end.
+- Empowered users with CRUD capabilities (create, retrieve, update, delete) ensuring data accuracy and security.
+- Demonstrated expertise in web development tools, languages, core data management principles, containerization, and cloud deployment.
+* [https://crud-demo-4g6b.onrender.com/]()
+
+
+
+<div style="page-break-before: always;"></div>
+<br class="print-only">
 
 ### Education
 * Zip Code Wilmington School of Coding (2023)
 * Lincoln University of PA (2015 - 2018)
 * Bachelor of Science (BS)
 * Business Management Major, Finance Minor
-
-
-### Personal Projects
-   CRUD APPLICATION
- - Developed a web-based Basic CRUD (Create, Read, Update, Delete) application to enable users to manage data entities effectively.
-- Utilized a blend of modern technologies, including:
-- Spring Boot backend for robust data storage and processing.
-- HTML, JavaScript, and jQuery for crafting a dynamic front-end interface.
-- Empowered users with the capability to:
-- Create new records in the data store.
-- Retrieve existing records for viewing.
-- Update record details to maintain data accuracy.
-- Delete records securely from the system.
-- Constructed the application with the aim of:
-- Mastering the core principles of data management.
-- Elevating proficiency in web development tools and languages.
-- Showcased skills in designing, developing, and deploying web applications with comprehensive data management functionalities.
-* [https://crud-demo-4g6b.onrender.com/]()
-
