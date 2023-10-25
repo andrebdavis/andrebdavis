@@ -8,6 +8,8 @@
 
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
+Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - QA Testing - JIRA- Jenkins - GIT - Typescript - Postman 
+
 _Click [here](https://github.com/andrebdavis) to view my Github Profile_
 ### Full-Stack Java Developer
 ### Contact Information
