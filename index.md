@@ -50,10 +50,6 @@ multiple object-oriented programming languages and frameworks.
 * [https://crud-demo-4g6b.onrender.com/]()
 
 
-
-<div style="page-break-before: always;"></div>
-<br class="print-only">
-
 ### Education
 * Zip Code Wilmington School of Coding (2023)
 * Lincoln University of PA (2015 - 2018)
