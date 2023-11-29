@@ -40,6 +40,8 @@ multiple object-oriented programming languages and frameworks.
 - Demonstrated strong analytical and problem-solving skills, diagnosing and resolving hardware and software issues efficiently to minimize downtime for end-users.
 - Efficiently managed and prioritized help desk tickets, ensuring timely resolution of issues and maintaining accurate records of troubleshooting processes for future reference.
 
+<div style="page-break-before: always;"></div>
+<br class="print-only">
 
 ### Personal Projects
 #### CRUD Application
