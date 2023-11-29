@@ -34,11 +34,11 @@ training program using Agile and Scrum methodologies and test-driven development
 - Gained experience with 
 multiple object-oriented programming languages and frameworks.
 
-**Senior Property Manager**
+**Service Desk Analyst**
 *Emory Hill Commercial Real Estate Services* | Mar 2020 – Feb 2023
-- Managed a $100M portfolio of properties exceeding 4 million square feet including 4 apartment 
-complexes, University of Delaware student housing, and various other commercial properties and 
-shopping centers; Lead a team of 3 property coordinators.
+- Provided exceptional customer service by promptly addressing and resolving technical issues and inquiries, ensuring high levels of customer satisfaction.
+- Demonstrated strong analytical and problem-solving skills, diagnosing and resolving hardware and software issues efficiently to minimize downtime for end-users.
+- Efficiently managed and prioritized help desk tickets, ensuring timely resolution of issues and maintaining accurate records of troubleshooting processes for future reference.
 
 
 ### Personal Projects
