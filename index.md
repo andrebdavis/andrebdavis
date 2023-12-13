@@ -52,8 +52,10 @@ multiple object-oriented programming languages and frameworks.
 * [https://crud-demo-4g6b.onrender.com/]()
 
 
-### Education
+### Education & Certifications
+
 * Zip Code Wilmington School of Coding (2023)
 * Lincoln University of PA (2015 - 2018)
 * Bachelor of Science (BS)
 * Business Management Major, Finance Minor
+ 
