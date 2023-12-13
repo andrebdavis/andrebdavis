@@ -53,7 +53,7 @@ multiple object-oriented programming languages and frameworks.
 
 
 ### Education & Certifications
-* JPMC Software Engineering lite program  [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._2g8vBegbBEG7yq5HT_1702330229853_completion_certificate.pdf]()
+* [JPMC Software Engineering lite program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._2g8vBegbBEG7yq5HT_1702330229853_completion_certificate.pdf)
 * Zip Code Wilmington School of Coding (2023)
 * Lincoln University of PA (2015 - 2018)
 * Bachelor of Science (BS)
