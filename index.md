@@ -27,7 +27,6 @@ high-performing technical teams using innovative technology to solve complex bus
 Admitted into Zip Code Wilmington’s highly competitive software development program accepting less than 10% of applicants.
 - Completed over 1000 hours of software development projects in an immersive, full-stack 
 training program using Agile and Scrum methodologies and test-driven development.
-- Gained experience with multiple object-oriented programming languages and frameworks.
 
 **Senior Property Manager**
 *Emory Hill Commercial Real Estate Services* | Mar 2020 – Feb 2023
