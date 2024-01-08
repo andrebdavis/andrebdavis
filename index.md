@@ -4,13 +4,10 @@
 {% capture repository %}
     https://{{ username }}.github.io/
 {% endcapture %}
-
-
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
-Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - QA Testing - JIRA- Jenkins - GIT - Typescript - Postman 
+Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - JIRA- Jenkins - GIT - Typescript - Postman
 
-_Click [here](https://github.com/andrebdavis) to view my Github Profile_
 ### Full-Stack Java Developer
 ### Contact Information
 * **Email**: [`{{ email }}`](mailto:{{ email }})
@@ -45,12 +42,10 @@ multiple object-oriented programming languages and frameworks.
 
 ### Personal Projects
 #### CRUD Application
- - Developed and deployed a containerized Java-based web application using Docker to the cloud via Render.com, enabling effective data entity management.
+ - Developed and [deployed](https://crud-demo-4g6b.onrender.com/) a containerized Java-based web application using Docker to the cloud via Render.com, enabling effective data entity management.
 - Utilized Spring Boot for backend processing, and HTML, JavaScript, and jQuery for a dynamic front-end.
 - Empowered users with CRUD capabilities (create, retrieve, update, delete) ensuring data accuracy and security.
 - Demonstrated expertise in web development tools, languages, core data management principles, containerization, and cloud deployment.
-* [https://crud-demo-4g6b.onrender.com/]()
-
 
 ### Education & Certifications
 * [JPMC Software Engineering lite program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._2g8vBegbBEG7yq5HT_1702330229853_completion_certificate.pdf)
