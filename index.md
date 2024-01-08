@@ -37,16 +37,14 @@ multiple object-oriented programming languages and frameworks.
 - Demonstrated strong analytical and problem-solving skills, diagnosing and resolving hardware and software issues efficiently to minimize downtime for end-users.
 - Efficiently managed and prioritized help desk tickets, ensuring timely resolution of issues and maintaining accurate records of troubleshooting processes for future reference.
 
-<div style="page-break-before: always;"></div>
-<br class="print-only">
-
 ### Personal Projects
 #### CRUD Application
  - Developed and [deployed](https://crud-demo-4g6b.onrender.com/) a containerized Java-based web application using Docker to the cloud via Render.com, enabling effective data entity management.
 - Utilized Spring Boot for backend processing, and HTML, JavaScript, and jQuery for a dynamic front-end.
 - Empowered users with CRUD capabilities (create, retrieve, update, delete) ensuring data accuracy and security.
 - Demonstrated expertise in web development tools, languages, core data management principles, containerization, and cloud deployment.
-
+<div style="page-break-before: always;"></div>
+<br class="print-only">
 ### Education & Certifications
 * [JPMC Software Engineering lite program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._2g8vBegbBEG7yq5HT_1702330229853_completion_certificate.pdf)
 * Zip Code Wilmington School of Coding (2023)
