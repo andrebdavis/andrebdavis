@@ -8,7 +8,7 @@ Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - JIRA -
 Dynamic Software Developer with a Business Management background, specializing in full-stack development and real estate management. Passionate about solving complex problems with innovative technology.
 
 ### Experience 
-**Software Developer in Training, Zip Code Wilmington** (Feb 2023 – June 2023)
+**Software Developer, Zip Code Wilmington** (Feb 2023 – June 2023)
 - Excelled in a competitive software development program, focusing on full-stack projects with Agile and Scrum methodologies.
 - Proficient in multiple programming languages and frameworks.
 
