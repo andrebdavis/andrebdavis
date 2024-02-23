@@ -1,4 +1,6 @@
+### Andre Brandon Davis
 ### Full-Stack Java Developer
+
 **Contact Information:** Email: [andreb.davis2@gmail.com](mailto:andreb.davis2@gmail.com) | Website: [andrebdavis.github.io](https://andrebdavis.github.io/) | LinkedIn: [linkedin.com/in/andrebdavis2011](https://www.linkedin.com/in/andrebdavis2011/)
 
 ### Skills
