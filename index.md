@@ -5,7 +5,7 @@
 **Contact Information:** Email: [andreb.davis2@gmail.com](mailto:andreb.davis2@gmail.com) | Website: [andrebdavis.github.io](https://andrebdavis.github.io/) | LinkedIn: [linkedin.com/in/andrebdavis2011](https://www.linkedin.com/in/andrebdavis2011/)
 
 ### Skills
-Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - JIRA - COTS - GIT - SaaS - Postman
+Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - JIRA - COTS - GIT - SaaS - Postman - Agile Methodology
 
 ### Summary 
 Dynamic Software Developer with a Business Management background, specializing in full-stack development and real estate management. Passionate about solving complex problems with innovative technology.
@@ -16,7 +16,7 @@ Dynamic Software Developer with a Business Management background, specializing i
 - Proficient in multiple programming languages and frameworks.
 
 **Senior Property Manager, Emory Hill Commercial Real Estate Services** (Mar 2020 – Feb 2023)
-- Oversaw a $100M portfolio, including commercial properties and student housing, leading a team of coordinators.
+- Oversaw a $100M portfolio, including commercial properties and student housing, leading a team of 3 coordinators.
 
 ### Personal Projects
 **CRUD Application**
@@ -25,4 +25,5 @@ Dynamic Software Developer with a Business Management background, specializing i
 ### Education & Certifications
 - JPMC Software Engineering Lite Program, Forage (2023)
 - Zip Code Wilmington School of Coding (2023)
+- Curriculeon Full Stack Web Development Course (2024)
 - BS in Business Management, Minor in Finance, Lincoln University of PA (2015 - 2018)
