@@ -5,7 +5,7 @@
 **Contact Information:** Email: [andreb.davis2@gmail.com](mailto:andreb.davis2@gmail.com) | Website: [andrebdavis.github.io](https://andrebdavis.github.io/) | LinkedIn: [linkedin.com/in/andrebdavis2011](https://www.linkedin.com/in/andrebdavis2011/)
 
 ### Skills
-Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - JIRA - Jenkins - GIT - Typescript - Postman
+Java - JavaScript - HTML - CSS - Docker - Selenium - MySQL - Springboot - JIRA - COTS - GIT - SaaS - Postman
 
 ### Summary 
 Dynamic Software Developer with a Business Management background, specializing in full-stack development and real estate management. Passionate about solving complex problems with innovative technology.
